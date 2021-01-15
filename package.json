@@ -1,0 +1,17 @@
+{
+  "name": "npm-registry-data-in-ipld",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "dependencies": {
+    "@ipld/dag-cbor": "^2.0.3",
+    "bent": "^7.3.12",
+    "multiformats": "^4.4.3"
+  }
+}
